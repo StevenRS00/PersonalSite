@@ -11,7 +11,7 @@ hr {
 }
 
 h1 {
-    color: #222831;
+    color: #00adb5;
 }
 
 h2 {
@@ -26,3 +26,7 @@ img {
     max-width: 250px;
     height: auto;
 }
+
+/* p {
+    color: #222831;
+} */
